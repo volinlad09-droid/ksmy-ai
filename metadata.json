@@ -1,0 +1,6 @@
+{
+  "name": "YKSS AI Nexus",
+  "description": "YKSS AI Nexus — The Future Intelligence Company. An original next-generation AI ecosystem founded by Mr. Vayu King, featuring multi-model orchestration, advanced research lab, international accounts, and zero-trust security.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
